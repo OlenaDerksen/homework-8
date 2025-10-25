@@ -12,9 +12,11 @@
   float: right;
   margin: 10px;
 }
+
 .clear {
   clear: both;
 }
+
 .section2 {
   width: 1440px;
   background-color: lightblue;
@@ -24,6 +26,7 @@
   float: left;
   margin: 10px;
 }
+
 .section2__cat {
   float: right;
   margin: 10px;
@@ -38,6 +41,7 @@
   float: left;
   margin: 10px;
 }
+
 .section3__cat2 {
   float: right;
   margin: 10px;
@@ -81,5 +85,5 @@
 
 li {
   border: 2px solid brown;
-  margin-bottom: 10px;;
+  margin-bottom: 10px;
 }
